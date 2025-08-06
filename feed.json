@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Carla&#x27;s Corner",
+    "description": "",
+    "home_page_url": "https://www.carlanote.com",
+    "feed_url": "https://www.carlanote.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Carla"
+    },
+    "items": [
+    ]
+}

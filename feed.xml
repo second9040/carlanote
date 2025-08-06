@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Carla&#x27;s Corner</title>
+    <link href="https://www.carlanote.com/feed.xml" rel="self" />
+    <link href="https://www.carlanote.com" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>Carla</name>
+    </author>
+    <id>https://www.carlanote.com</id>
+
+</feed>
